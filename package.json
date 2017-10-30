@@ -1,0 +1,30 @@
+{
+  "name": "read_gpio_raspberry",
+  "version": "0.0.2",
+  "description": "this is a nodejs application to ready raspberry pi3 gpio value.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sugir93/read_gpio_raspberry.git"
+  },
+  "keywords": [
+    "gpio",
+    "raspberry",
+    "gpio value",
+    "read gpio",
+    "nodejs gpio"
+  ],
+  "author": "reachsugir@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sugir93/read_gpio_raspberry/issues"
+  },
+  "homepage": "https://github.com/sugir93/read_gpio_raspberry#readme",
+  "dependencies": {
+    "child_process": "^1.0.2"
+  }
+}
